@@ -1,0 +1,18 @@
+﻿  源.cpp
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/RELEASE”规范)
+kernel32.lib(KERNEL32.dll) : warning LNK4237: 在从“KERNEL32.DLL”导入时已指定 /SUBSYSTEM:NATIVE；请使用 /SUBSYSTEM:CONSOLE 或者 /SUBSYSTEM:WINDOWS。
+user32.lib(USER32.dll) : warning LNK4237: 在从“USER32.DLL”导入时已指定 /SUBSYSTEM:NATIVE；请使用 /SUBSYSTEM:CONSOLE 或者 /SUBSYSTEM:WINDOWS。
+LINK : error LNK2001: 无法解析的外部符号 NtProcessStartup
+MSVCRTD.lib(init.obj) : error LNK2019: 无法解析的外部符号 _CrtDbgReport，函数 _CRT_RTC_INIT 中引用了该符号
+MSVCRTD.lib(init.obj) : error LNK2019: 无法解析的外部符号 _CrtDbgReportW，函数 _CRT_RTC_INITW 中引用了该符号
+MSVCRTD.lib(error.obj) : error LNK2019: 无法解析的外部符号 strcpy_s，函数 "void __cdecl _RTC_StackFailure(void *,char const *)" (?_RTC_StackFailure@@YAXPEAXPEBD@Z) 中引用了该符号
+MSVCRTD.lib(error.obj) : error LNK2019: 无法解析的外部符号 strcat_s，函数 "void __cdecl _RTC_StackFailure(void *,char const *)" (?_RTC_StackFailure@@YAXPEAXPEBD@Z) 中引用了该符号
+MSVCRTD.lib(error.obj) : error LNK2019: 无法解析的外部符号 __stdio_common_vsprintf_s，函数 _vsprintf_s_l 中引用了该符号
+MSVCRTD.lib(error.obj) : error LNK2001: 无法解析的外部符号 __C_specific_handler_noexcept
+MSVCRTD.lib(pdblkup.obj) : error LNK2019: 无法解析的外部符号 _wmakepath_s，函数 "int __cdecl GetPdbDllPathFromFilePath(wchar_t const *,wchar_t *,unsigned __int64)" (?GetPdbDllPathFromFilePath@@YAHPEB_WPEA_W_K@Z) 中引用了该符号
+MSVCRTD.lib(pdblkup.obj) : error LNK2019: 无法解析的外部符号 _wsplitpath_s，函数 "int __cdecl GetPdbDllPathFromFilePath(wchar_t const *,wchar_t *,unsigned __int64)" (?GetPdbDllPathFromFilePath@@YAHPEB_WPEA_W_K@Z) 中引用了该符号
+MSVCRTD.lib(pdblkup.obj) : error LNK2019: 无法解析的外部符号 wcscpy_s，函数 "int __cdecl GetPdbDllPathFromFilePath(wchar_t const *,wchar_t *,unsigned __int64)" (?GetPdbDllPathFromFilePath@@YAHPEB_WPEA_W_K@Z) 中引用了该符号
+MSVCRTD.lib(pdblkup.obj) : error LNK2019: 无法解析的外部符号 __vcrt_GetModuleFileNameW，函数 "struct HINSTANCE__ * __cdecl GetPdbDll(void)" (?GetPdbDll@@YAPEAUHINSTANCE__@@XZ) 中引用了该符号
+MSVCRTD.lib(pdblkup.obj) : error LNK2019: 无法解析的外部符号 __vcrt_GetModuleHandleW，函数 "struct HINSTANCE__ * __cdecl GetPdbDll(void)" (?GetPdbDll@@YAPEAUHINSTANCE__@@XZ) 中引用了该符号
+MSVCRTD.lib(pdblkup.obj) : error LNK2019: 无法解析的外部符号 __vcrt_LoadLibraryExW，函数 "struct HINSTANCE__ * __cdecl GetPdbDll(void)" (?GetPdbDll@@YAPEAUHINSTANCE__@@XZ) 中引用了该符号
+F:\windows编程\1. 简单的窗口\x64\Debug\3. 第一个窗口.exe : fatal error LNK1120: 13 个无法解析的外部命令
