@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  dllmain.cpp
+    正在创建库 F:\windows编程\1. 简单的窗口\Debug\9. 动态链接库.lib 和对象 F:\windows编程\1. 简单的窗口\Debug\9. 动态链接库.exp
+LINK : warning LNK4232: 名称 9. 动态链接库.dll 包含非 ASCII 字符，在具有除 936 以外的 ANSI 代码页的系统上可能不能加载 DLL
+  9. 动态链接库.vcxproj -> F:\windows编程\1. 简单的窗口\Debug\9. 动态链接库.dll
