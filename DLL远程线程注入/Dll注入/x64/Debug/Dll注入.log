@@ -1,0 +1,3 @@
+﻿  源.cpp
+F:\注入技术\Dll注入\Dll注入\源.cpp(26,20): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“SIZE_T *”
+  Dll注入.vcxproj -> F:\注入技术\Dll注入\x64\Debug\Dll注入.exe
