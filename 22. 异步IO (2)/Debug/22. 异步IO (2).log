@@ -1,0 +1,17 @@
+﻿  22.2.cpp
+F:\windows编程\22. 异步IO (2)\22.2.cpp(26,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“WCHAR *”
+F:\windows编程\22. 异步IO (2)\22.2.cpp(26,9): message : 请考虑在格式字符串中使用“%ls”
+F:\windows编程\22. 异步IO (2)\22.2.cpp(26,9): message : 请考虑在格式字符串中使用“%lls”
+F:\windows编程\22. 异步IO (2)\22.2.cpp(26,9): message : 请考虑在格式字符串中使用“%Ls”
+F:\windows编程\22. 异步IO (2)\22.2.cpp(26,9): message : 请考虑在格式字符串中使用“%ws”
+F:\windows编程\22. 异步IO (2)\22.2.cpp(27,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“WCHAR *”
+F:\windows编程\22. 异步IO (2)\22.2.cpp(27,9): message : 请考虑在格式字符串中使用“%ls”
+F:\windows编程\22. 异步IO (2)\22.2.cpp(27,9): message : 请考虑在格式字符串中使用“%lls”
+F:\windows编程\22. 异步IO (2)\22.2.cpp(27,9): message : 请考虑在格式字符串中使用“%Ls”
+F:\windows编程\22. 异步IO (2)\22.2.cpp(27,9): message : 请考虑在格式字符串中使用“%ws”
+F:\windows编程\22. 异步IO (2)\22.2.cpp(50,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“WCHAR *”
+F:\windows编程\22. 异步IO (2)\22.2.cpp(50,9): message : 请考虑在格式字符串中使用“%ls”
+F:\windows编程\22. 异步IO (2)\22.2.cpp(50,9): message : 请考虑在格式字符串中使用“%lls”
+F:\windows编程\22. 异步IO (2)\22.2.cpp(50,9): message : 请考虑在格式字符串中使用“%Ls”
+F:\windows编程\22. 异步IO (2)\22.2.cpp(50,9): message : 请考虑在格式字符串中使用“%ws”
+  22. 异步IO (2).vcxproj -> F:\windows编程\1. 简单的窗口\Debug\22. 异步IO (2).exe
